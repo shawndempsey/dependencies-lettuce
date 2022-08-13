@@ -6,6 +6,6 @@ class Lettuce
 
     public function __construct()
     {
-        echo "Lettuce v1.0.2\n";
+        echo "Lettuce v1.1.0\n";
     }
 }
