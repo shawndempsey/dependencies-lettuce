@@ -1,0 +1,10 @@
+{
+    "name": "lettuce/lettuce",
+    "autoload": {
+        "psr-4": {
+            "Lettuce\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
